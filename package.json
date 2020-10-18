@@ -1,6 +1,6 @@
 {
-  "author": "You <you@example.com>",
-  "name": "rust-webpack-template",
+  "author": "Robert Serrano Kobylyansky <sk.robchik@gmail.com>",
+  "name": "fluid-simulator",
   "version": "0.1.0",
   "scripts": {
     "build": "rimraf dist pkg && webpack",
